@@ -14,3 +14,6 @@ Based on SSDCS standards, furnaces should have extra features i.e., Wi-Fi and Hu
 
 ## Main.java
 Test file where various sensors can be created and controlled/tested. Consists of 3 scenarios dedicated to Ex1, Ex2, and Ex3 respectively. Only 1 scenario should be active at a time, so if Scenario 1 will be used at runtime, comment Scenario 2 and 3.
+
+## Standards.jar
+Java interfaces which allow components of SSDCS to work together. Check links.txt for documentation on Standards.jar.
