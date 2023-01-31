@@ -5,6 +5,7 @@ The challenge is divided into three components (Ex1, Ex2, Ex3). Each component m
 
 ## Ex1 - Adapting an Old Sensor
 Temperature sensor driver is given, but adapter pattern must be used.
+
 Video demonstration: https://youtu.be/svJXQlnkKyQ
 
 ## Ex2 - Adapting a Sensor with inverted control.
